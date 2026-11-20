@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "id": 2,
+      "title": "Clean code ",
+      "author": "Robert c.Martin",
+      "category": "Programming "
+    },
+    {
+      "id": 3,
+      "title": "Python Data Science",
+      "author": "Jake VenterPlas",
+      "category": "Data Sciencce"
+    },
+    {
+      "title": " Macbeth",
+      "author": "William Shakespeares",
+      "category": " plays",
+      "id": 4
+    }
+  ]
+}
